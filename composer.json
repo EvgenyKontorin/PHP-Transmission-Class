@@ -2,6 +2,5 @@
     "name": "EvgenyKontorin/PHP-Transmission-Class",
     "description": "A PHP class for Transmission BT",
     "require": {
-        "php": "^7.4"
     }
 }
