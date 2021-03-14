@@ -73,5 +73,3 @@ try
 } catch (Exception $e) {
   die('[ERROR] ' . $e->getMessage() . PHP_EOL);
 }
-
-?>

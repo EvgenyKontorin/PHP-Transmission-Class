@@ -65,5 +65,3 @@ if ( count( $downloads ) > 0 ) {
     } 
   }
 }
-
-?>
